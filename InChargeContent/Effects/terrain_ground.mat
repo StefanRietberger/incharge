@@ -1,0 +1,29 @@
+Locale: en-US
+
+EffectFile: "terrain_effect.fx"
+
+DepthTechnique: "BlendMap_Depth_Technique"
+FinalTechnique: "BlendMap_Final_Technique"
+GBufferTechnique: "BlendMap_GBuffer_Technique"
+ShadowGenerationTechnique: ""
+
+AddressModeU: Clamp
+AddressModeV: Clamp
+AddressModeW: Clamp
+DiffuseColor: 1 1 1
+DiffuseMap: "Textures/Terrain/atlas_terrain"
+DoubleSided: False
+EmissiveColor: 0 0 0
+EmissiveMap: ""
+FresnelMicrofacetDistribution: 0
+FresnelReflectBias: 0
+FresnelReflectOffset: 0
+NormalMap: "Textures/Terrain/atlas_terrain_normals"
+SpecularAmount: 3
+SpecularColorMap: ""
+SpecularPower: 15
+Transparency: 1
+TransparencyMode: None
+
+BlendTexture: "Textures/Terrain/blend_mask_transition"
+BaseTexture: "Textures/Terrain/atlas_terrain"

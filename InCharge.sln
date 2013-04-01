@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InCharge", "InCharge\InCharge.csproj", "{FAF58F3A-77BD-4221-970E-C94A65E83F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InChargeContent", "InChargeContent\InChargeContent.contentproj", "{FE584ACC-8C80-489F-8D09-DD0E38E2B238}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Debug|x86.ActiveCfg = Debug|x86
+		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Debug|x86.Build.0 = Debug|x86
+		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Release|x86.ActiveCfg = Release|x86
+		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Release|x86.Build.0 = Release|x86
+		{FE584ACC-8C80-489F-8D09-DD0E38E2B238}.Debug|x86.ActiveCfg = Debug|x86
+		{FE584ACC-8C80-489F-8D09-DD0E38E2B238}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

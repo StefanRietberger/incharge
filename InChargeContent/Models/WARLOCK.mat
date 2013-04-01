@@ -1,0 +1,22 @@
+//-----------------------------------------------
+// Synapse Gaming - SunBurn Lighting System
+// Exported from the SunBurn material editor
+//-----------------------------------------------
+
+Locale: de-CH
+
+AddressModeU: Wrap
+AddressModeV: Wrap
+AddressModeW: Wrap
+DiffuseColor: 1 1 1
+DiffuseMap: "WARLOCK.JPG"
+DoubleSided: False
+Elasticity: 0.75
+EmissiveColor: 0 0 0
+Friction: 0.25
+NormalMap: ""
+SpecularAmount: 0.04490196
+SpecularPower: 75
+TransparencyAmount: 1
+TransparencyMode: None
+TransparencyThreshold: 1

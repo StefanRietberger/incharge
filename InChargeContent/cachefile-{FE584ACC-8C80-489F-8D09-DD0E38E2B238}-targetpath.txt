@@ -1,0 +1,12 @@
+Content\Environment\Environment.xnb
+Content\SunBurn-Deploy.xnb
+Content\Scenes\Scene.xnb
+Content\Content.xnb
+Content\Models\char_warlock.xnb
+Content\Models\warlock.xnb
+Content\Models\wkstaff.xnb
+Content\Content.repo_0.xnb
+Content\Models\char_warlock.model.xnb
+Content\Models\char_warlock_0.xnb
+Content\Models\WARLOCK_0.xnb
+Content\Models\WARLOCK_1.xnb

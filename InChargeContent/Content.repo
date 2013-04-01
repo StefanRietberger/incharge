@@ -1,0 +1,157 @@
+<root>
+  <ContentRepository>
+    <Models>
+      <Dictionary_x0060_2>
+        <item_0>
+          <KeyValuePair_x0060_2>
+            <key>Models\char_warlock.FBX</key>
+            <value>
+              <ModelData>
+                <PipelineImporterClassName>
+                </PipelineImporterClassName>
+                <PipelineProcessorClassName>LightingSystemModelProcessor</PipelineProcessorClassName>
+                <PipelineProcessorOptions>
+                  <Dictionary_x0060_2_0>
+                    <item_0>
+                      <KeyValuePair_x0060_2_0>
+                        <key>GenerateLightMapUVCoordinates</key>
+                        <value>False</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_0>
+                    <item_1>
+                      <KeyValuePair_x0060_2_0>
+                        <key>LightMapUVIslandPadding</key>
+                        <value>1</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_1>
+                    <item_2>
+                      <KeyValuePair_x0060_2_0>
+                        <key>UseModelMaterialNames</key>
+                        <value>False</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_2>
+                    <item_3>
+                      <KeyValuePair_x0060_2_0>
+                        <key>OptimizeModel</key>
+                        <value>False</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_3>
+                    <item_4>
+                      <KeyValuePair_x0060_2_0>
+                        <key>OptimizeMeshBounds</key>
+                        <value>False</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_4>
+                    <item_5>
+                      <KeyValuePair_x0060_2_0>
+                        <key>Scale</key>
+                        <value>1</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_5>
+                    <item_6>
+                      <KeyValuePair_x0060_2_0>
+                        <key>SwapWindingOrder</key>
+                        <value>False</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_6>
+                    <item_7>
+                      <KeyValuePair_x0060_2_0>
+                        <key>RotationX</key>
+                        <value>0</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_7>
+                    <item_8>
+                      <KeyValuePair_x0060_2_0>
+                        <key>RotationY</key>
+                        <value>0</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_8>
+                    <item_9>
+                      <KeyValuePair_x0060_2_0>
+                        <key>RotationZ</key>
+                        <value>0</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_9>
+                    <item_10>
+                      <KeyValuePair_x0060_2_0>
+                        <key>GenerateMipmaps</key>
+                        <value>True</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_10>
+                    <item_11>
+                      <KeyValuePair_x0060_2_0>
+                        <key>TextureFormat</key>
+                        <value>DxtCompressed</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_11>
+                    <item_12>
+                      <KeyValuePair_x0060_2_0>
+                        <key>ResizeTexturesToPowerOfTwo</key>
+                        <value>False</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_12>
+                    <item_13>
+                      <KeyValuePair_x0060_2_0>
+                        <key>PremultiplyTextureAlpha</key>
+                        <value>True</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_13>
+                    <item_14>
+                      <KeyValuePair_x0060_2_0>
+                        <key>PremultiplyVertexColors</key>
+                        <value>True</value>
+                      </KeyValuePair_x0060_2_0>
+                    </item_14>
+                  </Dictionary_x0060_2_0>
+                </PipelineProcessorOptions>
+              </ModelData>
+            </value>
+          </KeyValuePair_x0060_2>
+        </item_0>
+      </Dictionary_x0060_2>
+    </Models>
+    <SoundEffects>
+      <Dictionary_x0060_2_1 />
+    </SoundEffects>
+    <LightMaps>
+      <List_x0060_1 />
+    </LightMaps>
+    <LightOcclusionBuffers>
+      <List_x0060_1 />
+    </LightOcclusionBuffers>
+    <Prefabs>
+      <Dictionary_x0060_2_2 />
+    </Prefabs>
+  </ContentRepository>
+  <classes>
+    <ContentRepository fullname="SynapseGaming.LightingSystem.Core.ContentRepository" assembly="SynapseGaming-SunBurn-Indie" fullyqualifiedname="SynapseGaming.LightingSystem.Core.ContentRepository, SynapseGaming-SunBurn-Indie, Version=2.0.18.7, Culture=neutral, PublicKeyToken=eb76e51de43fcd70" />
+    <Dictionary_x0060_2 fullname="System.Collections.Generic.Dictionary`2" assembly="mscorlib" fullyqualifiedname="System.Collections.Generic.Dictionary`2, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      <GenericArgument fullname="SynapseGaming.LightingSystem.Core.ContentRepository+ModelData" assembly="SynapseGaming-SunBurn-Indie" fullyqualifiedname="SynapseGaming.LightingSystem.Core.ContentRepository+ModelData, SynapseGaming-SunBurn-Indie, Version=2.0.18.7, Culture=neutral, PublicKeyToken=eb76e51de43fcd70" />
+    </Dictionary_x0060_2>
+    <KeyValuePair_x0060_2 fullname="System.Collections.Generic.KeyValuePair`2" assembly="mscorlib" fullyqualifiedname="System.Collections.Generic.KeyValuePair`2, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      <GenericArgument fullname="SynapseGaming.LightingSystem.Core.ContentRepository+ModelData" assembly="SynapseGaming-SunBurn-Indie" fullyqualifiedname="SynapseGaming.LightingSystem.Core.ContentRepository+ModelData, SynapseGaming-SunBurn-Indie, Version=2.0.18.7, Culture=neutral, PublicKeyToken=eb76e51de43fcd70" />
+    </KeyValuePair_x0060_2>
+    <ModelData fullname="SynapseGaming.LightingSystem.Core.ContentRepository+ModelData" assembly="SynapseGaming-SunBurn-Indie" fullyqualifiedname="SynapseGaming.LightingSystem.Core.ContentRepository+ModelData, SynapseGaming-SunBurn-Indie, Version=2.0.18.7, Culture=neutral, PublicKeyToken=eb76e51de43fcd70" />
+    <Dictionary_x0060_2_0 fullname="System.Collections.Generic.Dictionary`2" assembly="mscorlib" fullyqualifiedname="System.Collections.Generic.Dictionary`2, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    </Dictionary_x0060_2_0>
+    <KeyValuePair_x0060_2_0 fullname="System.Collections.Generic.KeyValuePair`2" assembly="mscorlib" fullyqualifiedname="System.Collections.Generic.KeyValuePair`2, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    </KeyValuePair_x0060_2_0>
+    <Dictionary_x0060_2_1 fullname="System.Collections.Generic.Dictionary`2" assembly="mscorlib" fullyqualifiedname="System.Collections.Generic.Dictionary`2, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      <GenericArgument fullname="SynapseGaming.LightingSystem.Core.ContentRepository+SoundEffectData" assembly="SynapseGaming-SunBurn-Indie" fullyqualifiedname="SynapseGaming.LightingSystem.Core.ContentRepository+SoundEffectData, SynapseGaming-SunBurn-Indie, Version=2.0.18.7, Culture=neutral, PublicKeyToken=eb76e51de43fcd70" />
+    </Dictionary_x0060_2_1>
+    <List_x0060_1 fullname="System.Collections.Generic.List`1" assembly="mscorlib" fullyqualifiedname="System.Collections.Generic.List`1, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    </List_x0060_1>
+    <Dictionary_x0060_2_2 fullname="System.Collections.Generic.Dictionary`2" assembly="mscorlib" fullyqualifiedname="System.Collections.Generic.Dictionary`2, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <GenericArgument fullname="System.String" assembly="mscorlib" fullyqualifiedname="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      <GenericArgument fullname="SynapseGaming.LightingSystem.Core.PrefabObjectGenerator" assembly="SynapseGaming-SunBurn-Indie" fullyqualifiedname="SynapseGaming.LightingSystem.Core.PrefabObjectGenerator, SynapseGaming-SunBurn-Indie, Version=2.0.18.7, Culture=neutral, PublicKeyToken=eb76e51de43fcd70" />
+    </Dictionary_x0060_2_2>
+  </classes>
+</root>
