@@ -65,4 +65,11 @@ Content\Effects\hq2x.xnb
 Content\Textures\Character\placeholder.xnb
 Content\Textures\Gui\logo.xnb
 Content\Fonts\MainMenuFont.xnb
+Content\Effects\BloomExtract.xnb
+Content\Effects\BloomCombine.xnb
+Content\Effects\GaussianBlur.xnb
+Content\Textures\Gui\star_big.xnb
+Content\Textures\Gui\star_medium.xnb
+Content\Textures\Gui\star_small.xnb
+Content\Textures\Gui\clouds_1.xnb
 Content\Textures\Cursor\hand_cursor.cur

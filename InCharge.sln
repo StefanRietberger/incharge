@@ -4,22 +4,30 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InCharge", "InCharge\InChar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InChargeContent", "InChargeContent\InChargeContent.contentproj", "{FE584ACC-8C80-489F-8D09-DD0E38E2B238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indiefreaks.Game.UI Windows (SunBurn Pro)", "..\igf\source\Indiefreaks.Game.UI\Indiefreaks.Game.UI Windows (SunBurn Pro).csproj", "{C0DD0A6D-DD1F-4F17-88FF-9A6D39848B49}"
+EndProject
 Global
-	GlobalSection(SubversionScc) = preSolution
-		Svn-Managed = True
-		Manager = AnkhSVN - Subversion Support for Visual Studio
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
+		Distribution|x86 = Distribution|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Debug|x86.ActiveCfg = Debug|x86
 		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Debug|x86.Build.0 = Debug|x86
+		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Distribution|x86.ActiveCfg = Debug|x86
+		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Distribution|x86.Build.0 = Debug|x86
 		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Release|x86.ActiveCfg = Release|x86
 		{FAF58F3A-77BD-4221-970E-C94A65E83F7B}.Release|x86.Build.0 = Release|x86
 		{FE584ACC-8C80-489F-8D09-DD0E38E2B238}.Debug|x86.ActiveCfg = Debug|x86
+		{FE584ACC-8C80-489F-8D09-DD0E38E2B238}.Distribution|x86.ActiveCfg = Debug|x86
 		{FE584ACC-8C80-489F-8D09-DD0E38E2B238}.Release|x86.ActiveCfg = Release|x86
+		{C0DD0A6D-DD1F-4F17-88FF-9A6D39848B49}.Debug|x86.ActiveCfg = Debug|x86
+		{C0DD0A6D-DD1F-4F17-88FF-9A6D39848B49}.Debug|x86.Build.0 = Debug|x86
+		{C0DD0A6D-DD1F-4F17-88FF-9A6D39848B49}.Distribution|x86.ActiveCfg = Distribution|x86
+		{C0DD0A6D-DD1F-4F17-88FF-9A6D39848B49}.Distribution|x86.Build.0 = Distribution|x86
+		{C0DD0A6D-DD1F-4F17-88FF-9A6D39848B49}.Release|x86.ActiveCfg = Release|x86
+		{C0DD0A6D-DD1F-4F17-88FF-9A6D39848B49}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
